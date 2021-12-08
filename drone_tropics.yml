@@ -5,4 +5,4 @@ sources:
     metadata:
       zenodo_doi: "10.5281/zenodo.5494629"
     args:
-      urlpath: "{{ CATALOG_DIR }}/Sep_2014_RGB_602500_646600.tif"
+      urlpath: "Sep_2014_RGB_602500_646600.tif"
